@@ -1,4 +1,4 @@
-```HTML
+
 <!DOCTYPE html>
 <head>
     <title>My Favorite Movie</title>
@@ -29,4 +29,4 @@
 
 </body>
 </html>
-```
+
